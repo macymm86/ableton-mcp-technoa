@@ -1,0 +1,13 @@
+# Local environment and runtime leftovers
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Logs and backups from working on a set stay local: they contain paths,
+# track names, parameter values and notes from real sets.
+snapshots/
+technoa_mcp/DEPLOY_LOG.txt
+technoa_mcp/deploy_backups/
+technoa_mcp/geloeschte_geraete/
+technoa_mcp/geloeschte_clips/
